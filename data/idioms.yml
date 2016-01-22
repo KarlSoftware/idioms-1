@@ -1,17 +1,27 @@
+# Format: 
+# -
+#   en: Idiom/phrase in English
+#   meaning: explanation
+#   versions: (equivalents in different languages)
+#     de: (ISO language code)
+#       original: (version in German): Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
+#       en: (translaction back into English): You cannot dance at two weddings
+
+
 -
   en: To have your cake and eat it
   meaning:
   versions:
     it:
-      orig: 
+      original: 
       en: To have your wife drunk, but the barrel still full
     de:
-      orig: Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
+      original: Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
       en: You cannot dance at two weddings
 -
   en: Don't look a gift horse in the mouth
   meaning:
   versions:
     mm:
-      orig:
+      original:
       en: If somebody gives you a free cow, don't look at its teeth
