@@ -48,14 +48,25 @@
   versions:
     es:
       en: A dog who barks often, but never bites
+    hu: 
+      original: Nagyobb a füstje, mint a lángja
+      en: The smoke is bigger than the flame
 
 -
   en: All that glitters is not gold
   meaning: Not everything that looks attractive or endearing, is.
+  versions:
+    hu:
+      original: Nem mind arany, ami fénylik!
+      en: All that glitters is not gold
 
 -
   en: To cry wolf
   meaning: To give so many false warnings that subsequent warnings are ignored
+  versions:
+    hu: 
+      original: Farkast kiált
+      en: To cry wolf
 
 -
   en: There isn't room to swing a cat in here
@@ -64,15 +75,26 @@
 -
   en: Beat around the bush
   meaning: To delay or avoid speaking about something
+  versions:
+    hu: 
+      original: Kerülgeti, mint macska a forró kását
+      en: Circling around it like a cat around hot porridge
 
 -
   en: Add insult to injury
-  meaning: To make a bad situation wors
+  meaning: To make a bad situation worse
+  versions:
+    hu:
+      original: Sértést sértésre halmoz
+      en: To stack insult upon insult
 
 -
   en: A little bird told me
   meaning: You have found out information, but you are not going to say how or who told you
-
+  versions:
+    hu:
+      original: A kismadarak csiripelték
+      en: Little birds told me
 - 
   en: Screw the pooch
   meaning: To make an error or mistake
@@ -80,6 +102,10 @@
 -
   en: Pull someone's leg
   meaning: To mislead or tease somebody through a lie
+  versions:
+    hu:
+      original: Ugratni valakit
+      en: To make someone skip
 
 -
   en: By the skin of your teeth
