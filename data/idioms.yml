@@ -15,12 +15,12 @@
   meaning: To be presented with two opposing options, and attempting to choose both
   versions:
     it:
-      original: 
+      original:
       en: To have your wife drunk, but the barrel still full
     de:
       original: Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
       en: You cannot dance at two weddings
-    hu: 
+    hu:
       original: Egy fenékkel nem lehet két lovat megülni
       en: You can't ride two horses with one butt
 -
@@ -32,6 +32,9 @@
       en: If somebody gives you a free cow, don't look at its teeth
     hu:
       original: Ajándék lónak ne nézd a fogát
+      en: Don't look a gift horse in the mouth
+    de:
+      original: Einem geschenkten Gaul schaut man nicht ins Maul.
       en: Don't look a gift horse in the mouth
 
 -
@@ -48,7 +51,7 @@
   versions:
     es:
       en: A dog who barks often, but never bites
-    hu: 
+    hu:
       original: Nagyobb a füstje, mint a lángja
       en: The smoke is bigger than the flame
 
@@ -59,12 +62,15 @@
     hu:
       original: Nem mind arany, ami fénylik!
       en: All that glitters is not gold
+    de:
+      original: Es ist nicht alles Gold was glänzt.
+      en: All that glitters is not gold
 
 -
   en: To cry wolf
   meaning: To give so many false warnings that subsequent warnings are ignored
   versions:
-    hu: 
+    hu:
       original: Farkast kiált
       en: To cry wolf
 
@@ -76,10 +82,12 @@
   en: Beat around the bush
   meaning: To delay or avoid speaking about something
   versions:
-    hu: 
+    hu:
       original: Kerülgeti, mint macska a forró kását
       en: Circling around it like a cat around hot porridge
-
+    de:
+      original: Um den heißen Brei herumreden
+      en: To talk around the hot porridge
 -
   en: Add insult to injury
   meaning: To make a bad situation worse
@@ -95,7 +103,7 @@
     hu:
       original: A kismadarak csiripelték
       en: Little birds told me
-- 
+-
   en: Screw the pooch
   meaning: To make an error or mistake
 
@@ -106,6 +114,9 @@
     hu:
       original: Ugratni valakit
       en: To make someone skip
+    de:
+      original: Jemanden an der Nase herumführen
+      en: To lead someone by the nose.
 
 -
   en: By the skin of your teeth
@@ -119,9 +130,66 @@
       en: To throw oneself flowers
 
 -
-  en: 
+  en:
   meaning: To feel better after being sick/hungover
   versions:
     ru:
       original: Свеж как огурчик
       en: Fresh as a gherkin
+
+-
+  en: Still waters run deep.
+  meaning: A quiet or placid manner may conceal a passionate nature.
+  versions:
+    de:
+      original: Stille Wasser sind tief.
+      en: Silent waters are deep
+-
+
+  en: Man forges his own destiny.
+  meaning: Your life will go the way that you make it.
+  versions:
+    de:
+      original: Jeder ist seines Glückes Schmied.
+      en: Everybody is their own luck's blacksmith.
+-
+
+  en:
+  meaning: If you're forgetful, you have to make up for it through physical activity (walk more).
+  versions:
+    de:
+      original: Was man nicht im Kopf hat, muss man in den Beinen haben.
+      en: What you don't have in your head, you have to have in your legs. (Usually said if you left something somewhere and you have to go back to get it.)
+-
+
+  en: A penny saved is a penny earned.
+  meaning: You should value even small contributions.
+  versions:
+    de:
+      original: Kleinvieh macht auch Mist.
+      en: Even small animals create manure.
+-
+
+  en: To bite the dust
+  meaning: To die
+  versions:
+    de:
+      original: Ins Gras beißen
+      en: To bite into the grass
+-
+
+  en: To make a mountain out of a molehill
+  meaning:
+  versions:
+    de:
+      original: Aus einer Mücke einen Elefanten machen
+      en: To turn a mosquito into an elephant
+-
+
+  en: Sow the wind and reap the whirlwind.
+  meaning: People who do bad things will suffer consequences that are much worse than what they initially did.
+  versions:
+    de:
+      original: Wer Wind sät, wird Sturm ernten.
+      en: Those who sow win will harverst storm.
+-
