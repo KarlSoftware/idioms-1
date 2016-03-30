@@ -15,8 +15,8 @@
   meaning: To be presented with two opposing options, and attempting to choose both
   versions:
     it:
-      original:
-      en: To have your wife drunk, but the barrel still full
+      original: Volere la botte piena e la moglie ubriaca
+      en: To want your wife drunk, but the barrel still full
     de:
       original: Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
       en: You cannot dance at two weddings
@@ -36,6 +36,9 @@
     de:
       original: Einem geschenkten Gaul schaut man nicht ins Maul.
       en: Don't look a gift horse in the mouth
+    it:
+      original: A caval donato non si guarda in bocca
+      en: Don't look a gift horse in the mouth
 
 -
   en: To have seen the light
@@ -54,6 +57,12 @@
     hu:
       original: Nagyobb a füstje, mint a lángja
       en: The smoke is bigger than the flame
+    it:
+      original: Tutto fumo e niente arrosto
+      en: All smoke and no roast
+    it2:
+      original: Can che abbaia non morde
+      en: A dog that barks doesn't bite
 
 -
   en: All that glitters is not gold
@@ -64,6 +73,9 @@
       en: All that glitters is not gold
     de:
       original: Es ist nicht alles Gold was glänzt.
+      en: All that glitters is not gold
+    it:
+      original: Non è tutto oro ciò che luccica
       en: All that glitters is not gold
 
 -
@@ -95,6 +107,9 @@
     hu:
       original: Sértést sértésre halmoz
       en: To stack insult upon insult
+    it:
+      original: Oltre al danno la beffa
+      en: Add insult to injury
 
 -
   en: A little bird told me
@@ -121,6 +136,11 @@
 -
   en: By the skin of your teeth
   meaning: To achieve something very narrowly and not comfortably
+  versions:
+    it:
+      original: Per un pelo
+      en: By a hair
+
 -
   en: To blow your own trumpet
   meaning: To talk about and emphasise your own achievements yourself, rather than await praise from others
@@ -144,6 +164,9 @@
     de:
       original: Stille Wasser sind tief.
       en: Silent waters are deep
+    it:
+      original: Acqua cheta rompe i ponti
+      en: Still waters break the bridges
 -
 
   en: Man forges his own destiny.
