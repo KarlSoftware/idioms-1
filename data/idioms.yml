@@ -216,3 +216,16 @@
       original: Wer Wind sät, wird Sturm ernten.
       en: Those who sow win will harverst storm.
 -
+
+  en: Don't count your chickens before they've hatched
+  meaning: You should not expect all of your hopes to be fulfilled
+  versions:
+    nl:
+      original: De huid verkopen voor de beer geschoten is
+      en: Don't sell the hide before you shoot the bear
+    ro:
+      original: Nu da vrabia din mânã pe cioara de pe gard
+      en: Don't give away the sparrow in your hand for the crow on the fence
+    fr:
+      original: Il ne faut pas vendre la peau de l’ours avant de l’avoir tué
+      en: Don't sell the skin of the bear before killing him
