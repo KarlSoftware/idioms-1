@@ -11,7 +11,8 @@
 
 
 -
-  en: You can't have your cake and eat it
+  en:
+    - You can't have your cake and eat it
   meaning: To be presented with two opposing options, and attempting to choose both
   versions:
     it:
@@ -24,7 +25,8 @@
       original: Egy fenékkel nem lehet két lovat megülni
       en: You can't ride two horses with one butt
 -
-  en: Don't look a gift horse in the mouth
+  en:
+    - Don't look a gift horse in the mouth
   meaning: If you are given something for free, be grateful without checking it.
   versions:
     my:
@@ -41,7 +43,8 @@
       en: Don't look a gift horse in the mouth
 
 -
-  en: To have seen the light
+  en:
+    - To have seen the light
   meaning: To understand the true meaning of a topic
   versions:
     bg:
@@ -49,8 +52,10 @@
       en: You discovered the hot water
 
 -
-  en: All mouth and no trousers
-  meaning: To boast or promise action, but to not follow through
+  en:
+    - All mouth and no trousers
+    - His bark is worse than his bite
+  meaning: To boast, threaten or promise action, but to not follow through
   versions:
     es:
       en: A dog who barks often, but never bites
@@ -64,7 +69,8 @@
         en: A dog that barks doesn't bite
 
 -
-  en: All that glitters is not gold
+  en: 
+    - All that glitters is not gold
   meaning: Not everything that looks attractive or endearing, is.
   versions:
     hu:
@@ -78,7 +84,8 @@
       en: All that glitters is not gold
 
 -
-  en: To cry wolf
+  en:
+    - To cry wolf
   meaning: To give so many false warnings that subsequent warnings are ignored
   versions:
     hu:
@@ -86,11 +93,13 @@
       en: To cry wolf
 
 -
-  en: There isn't room to swing a cat in here
+  en:
+    - There isn't room to swing a cat in here
   meaning: This is a small space or room
 
 -
-  en: Beat around the bush
+  en:
+    - Beat around the bush
   meaning: To delay or avoid speaking about something
   versions:
     hu:
@@ -100,7 +109,8 @@
       original: Um den heißen Brei herumreden
       en: To talk around the hot porridge
 -
-  en: Add insult to injury
+  en:
+    - Add insult to injury
   meaning: To make a bad situation worse
   versions:
     hu:
@@ -111,18 +121,24 @@
       en: Add insult to injury
 
 -
-  en: A little bird told me
+  en:
+    - A little bird told me
   meaning: You have found out information, but you are not going to say how or who told you
   versions:
     hu:
       original: A kismadarak csiripelték
       en: Little birds told me
+    es:
+      en: My little finger told me
 -
-  en: Screw the pooch
+  en:
+    - Screw the pooch
+    - Fuck the dog
   meaning: To make an error or mistake
 
 -
-  en: Pull someone's leg
+  en:
+    - Pull someone's leg
   meaning: To mislead or tease somebody through a lie
   versions:
     hu:
@@ -133,7 +149,8 @@
       en: To lead someone by the nose.
 
 -
-  en: By the skin of your teeth
+  en:
+    - By the skin of your teeth
   meaning: To achieve something very narrowly and not comfortably
   versions:
     it:
@@ -141,7 +158,8 @@
       en: By a hair
 
 -
-  en: To blow your own trumpet
+  en:
+    - To blow your own trumpet
   meaning: To talk about and emphasise your own achievements yourself, rather than await praise from others
   versions:
     es:
@@ -157,7 +175,8 @@
       en: Fresh as a gherkin
 
 -
-  en: Still waters run deep.
+  en:
+    - Still waters run deep.
   meaning: A quiet or placid manner may conceal a passionate nature.
   versions:
     de:
@@ -168,7 +187,8 @@
       en: Still waters break the bridges
 -
 
-  en: Man forges his own destiny.
+  en:
+    - Man forges his own destiny.
   meaning: Your life will go the way that you make it.
   versions:
     de:
@@ -184,7 +204,8 @@
       en: What you don't have in your head, you have to have in your legs. (Usually said if you left something somewhere and you have to go back to get it.)
 -
 
-  en: A penny saved is a penny earned.
+  en:
+    - A penny saved is a penny earned.
   meaning: You should value even small contributions.
   versions:
     de:
@@ -192,7 +213,8 @@
       en: Even small animals create manure.
 -
 
-  en: To bite the dust
+  en:
+    - To bite the dust
   meaning: To die
   versions:
     de:
@@ -200,7 +222,8 @@
       en: To bite into the grass
 -
 
-  en: To make a mountain out of a molehill
+  en:
+    - To make a mountain out of a molehill
   meaning:
   versions:
     de:
@@ -208,7 +231,8 @@
       en: To turn a mosquito into an elephant
 -
 
-  en: Sow the wind and reap the whirlwind.
+  en:
+    - Sow the wind and reap the whirlwind.
   meaning: People who do bad things will suffer consequences that are much worse than what they initially did.
   versions:
     de:
@@ -216,7 +240,8 @@
       en: Those who sow win will harverst storm.
 -
 
-  en: Don't count your chickens before they've hatched
+  en:
+    - Don't count your chickens before they've hatched
   meaning: You should not expect all of your hopes to be fulfilled
   versions:
     nl:
@@ -228,3 +253,21 @@
     fr:
       original: Il ne faut pas vendre la peau de l’ours avant de l’avoir tué
       en: Don't sell the skin of the bear before killing him
+
+- 
+  en: 
+    - Every cloud has a silver lining
+  meaning: Although something bad has happened, there is still likely to be some upside/benefit
+
+-
+  en:
+    - A bird in the hand is worth two in the bush
+  meaning: That which you have for certain is worth more than that which you could have but don't.
+
+- 
+  en:
+    - Kill two birds with one stone
+  meaning: Get double the results for the same effort
+
+
+
