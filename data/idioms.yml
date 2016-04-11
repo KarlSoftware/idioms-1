@@ -1,11 +1,12 @@
 # Format: 
 # -
-#   en: Idiom/phrase in English
+#   en:
+#     - Idiom/phrase in English
 #   meaning: explanation
 #   versions: (equivalents in different languages)
 #     de: (ISO-639-1 language code)
-#       original: (version in German): Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
-#       en: (translaction back into English): You cannot dance at two weddings
+#       - original: (version in German): Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen.
+#         en: (translaction back into English): You cannot dance at two weddings
 
 # Language code reference: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
