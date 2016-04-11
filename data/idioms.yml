@@ -58,11 +58,10 @@
       original: Nagyobb a füstje, mint a lángja
       en: The smoke is bigger than the flame
     it:
-      original: Tutto fumo e niente arrosto
-      en: All smoke and no roast
-    it2:
-      original: Can che abbaia non morde
-      en: A dog that barks doesn't bite
+      - original: Tutto fumo e niente arrosto
+        en: All smoke and no roast
+      - original: Can che abbaia non morde
+        en: A dog that barks doesn't bite
 
 -
   en: All that glitters is not gold
