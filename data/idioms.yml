@@ -42,7 +42,9 @@
     it:
       original: A caval donato non si guarda in bocca
       en: Don't look a gift horse in the mouth
-
+    es:
+      original: A caballo regalado no le mires el dentado
+      en: Don't check the teeth of a gift horse
 -
   en:
     - To have seen the light
@@ -59,7 +61,8 @@
   meaning: To boast, threaten or promise action, but to not follow through
   versions:
     es:
-      en: A dog who barks often, but never bites
+      original: Perro ladrador poco mordedor
+      en: A dog who barks often rarely bites
     hu:
       original: Nagyobb a füstje, mint a lángja
       en: The smoke is bigger than the flame
@@ -83,6 +86,9 @@
     it:
       original: Non è tutto oro ciò che luccica
       en: All that glitters is not gold
+    es:
+      original: No es oro todo lo que reluce
+      en: It is not gold all that glitters 
 
 -
   en:
@@ -120,7 +126,9 @@
     it:
       original: Oltre al danno la beffa
       en: Add insult to injury
-
+    es:
+      original: Además de tonto apaleado
+      en: Not only dumb but beaten
 -
   en:
     - A little bird told me
@@ -130,13 +138,16 @@
       original: A kismadarak csiripelték
       en: Little birds told me
     es:
-      en: My little finger told me
+      original: Un pajarito me ha contado
+      en: A little bird told me
 -
   en:
     - Screw the pooch
     - Fuck the dog
   meaning: To make an error or mistake
-
+    es:
+      original: Joder la marrana
+      en: Fuck the female pig
 -
   en:
     - Pull someone's leg
@@ -157,6 +168,9 @@
     it:
       original: Per un pelo
       en: By a hair
+    es:
+      original: Por los pelos
+      en: By the hair
 
 -
   en:
@@ -230,6 +244,9 @@
     de:
       original: Aus einer Mücke einen Elefanten machen
       en: To turn a mosquito into an elephant
+    de:
+      original: Hacer una montaña de un granito de arena
+      en: To turn a grain of sand into a mountain
 -
 
   en:
@@ -239,6 +256,9 @@
     de:
       original: Wer Wind sät, wird Sturm ernten.
       en: Those who sow win will harverst storm.
+    es:
+      original: Plantar tormentas y recoger tempestades
+      en: Seed winds and harvest huricans.
 -
 
   en:
@@ -270,5 +290,19 @@
     - Kill two birds with one stone
   meaning: Get double the results for the same effort
 
+-
+  en:
+  meaning: The people that do the work are not the ones that take the recognition
+  versions:
+    es:
+      original: Unos cardan la lana y otros crian la fama
+      en: Some people work the wool other people get the fame
 
+-
+  en:
+  meaning: Be known for something is more important that doing it
+  versions:
+    es:
+      original: Cria fama y échate a dormir
+      en: Get reputation and go to sleep
 
