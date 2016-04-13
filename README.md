@@ -18,3 +18,4 @@ Thanks be to:
 * Giuseppe Capizzi - Italian
 * Oliver Turner - Spanish
 * Ekaterina Malykh - Russian
+* Fernando Diaz Garrido - Spanish
